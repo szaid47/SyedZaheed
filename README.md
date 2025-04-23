@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 # Syed Zaheed
 
 **`Tech Explorer | Web Dev Whiz | AI Enthusiast`**
