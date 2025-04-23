@@ -45,7 +45,7 @@ When I’m not debugging or deploying, I’m diving into tech trends, participat
 <img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Streamlit" width="30px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js Logo" width="100" height="100" />
+<img align="left" alt="nextjs" width="30px"  src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js Logo" />
 <br />
 
 ---
