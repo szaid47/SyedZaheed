@@ -90,7 +90,7 @@ I'm always up for collabs, tech talks, and fun ideas that challenge the norm. If
 [<img align="left" alt="zaheed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
 
 [website]: https://zaheed.tech   
-[twitter]: https://twitter.com/your-username  
-[linkedin]: https://www.linkedin.com/in/your-username  
-[instagram]: https://www.instagram.com/your-username
+[twitter]: https://x.com/zaheeeed45  
+[linkedin]: https://www.linkedin.com/in/syedzaheed/  
+[instagram]: https://www.instagram.com/z4heed_s
 
