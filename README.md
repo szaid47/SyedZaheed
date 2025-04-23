@@ -57,18 +57,14 @@ When I’m not debugging or deploying, I’m diving into tech trends, participat
 ### 🗺️ Let’s Connect & Collaborate
 
 I'm always up for collabs, tech talks, and fun ideas that challenge the norm. If you're building something innovative or just wanna geek out on code—hit me up!
-<p>
- <a href="https://www.linkedin.com/in/your-profile" target="_blank" title="LinkedIn">
-    <img src="https://content.linkedin.com/content/dam/platform/lil-logo/default/original-dark.svg" alt="LinkedIn" width="30" height="30" />
-</a>
-<a href="https://github.com/your-username" target="_blank" title="GitHub">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light-64px.png" alt="GitHub" width="30" height="30" style="background-color: #f6f8fa;" />
-</a>
-<a href="https://twitter.com/your-username" target="_blank" title="Twitter">
-    <img src="https://abs.twimg.com/favicons/favicon.ico" alt="Twitter" width="30" height="30" />
-</a>
-<a href="https://www.instagram.com/your-username" target="_blank" title="Instagram">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="Instagram" width="30" height="30" />
+[<img align="left" alt="syedzaheed" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
+[<img align="left" alt="zaheed47 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
+[<img align="left" alt="Syed Zaheed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="z4heed_s | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
 
-  </a>>
-</p>
+[website]: https://your-website-link.com  
+[medium]: https://medium.com/@your-username  
+[twitter]: https://twitter.com/your-username  
+[linkedin]: https://www.linkedin.com/in/your-username  
+[instagram]: https://www.instagram.com/your-username
+
