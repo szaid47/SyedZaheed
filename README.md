@@ -47,9 +47,7 @@ When I’m not debugging or deploying, I’m diving into tech trends, participat
 
 ---
 
-### 📈 GitHub Stats
 
-![Zaheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=SyedZaheed&show_icons=true&theme=tokyonight)
 
 ---
 
