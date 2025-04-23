@@ -13,7 +13,7 @@ When I’m not debugging or deploying, I’m diving into tech trends, participat
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/szaid47?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/szaid47?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/szaid47?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+</p>
 
 
 ---
@@ -27,24 +27,49 @@ When I’m not debugging or deploying, I’m diving into tech trends, participat
 ---
 
 ### 🌱 My Journey So Far
-- 💡 Created an AI-driven proctoring app that captures misalignment behavior from recorded videos.
-- 🧠 Worked on a sustainable farming app that gives real-time suggestions based on soil, weather, and crop data.
-- 🎧 Designed a MERN-based turn-based music app using Socket.io and Spotify/YouTube APIs.
-- 📊 Visualized India’s City GDP using Power BI and Streamlit for Springboard.
+-  Created an AI-driven proctoring app that captures misalignment behavior from recorded videos.
+-  Developed an AI-powered system to identify and classify underwater debris using advanced computer vision techniques.
+-  Built Konvo, a full-stack real-time chat application using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io
+-  Visualized India’s City GDP using Power BI and Streamlit for  Infosys Springboard.
 
 ---
 
-### 🛠️ Tools I Use Daily
 
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
-<img align="left" alt="JS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Streamlit" width="30px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg"/>
-<img align="left" alt="nextjs" width="30px"  src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js Logo" />
+
+
+## 🚀 Tech Stack I Use
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=for-the-badge)
+
+### 🛠️ Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![Clerk](https://img.shields.io/badge/-Clerk-3B82F6?logo=clerk&logoColor=white&style=for-the-badge)
+![ConvexDB](https://img.shields.io/badge/-ConvexDB-000000?style=for-the-badge)
+
+### 🤖 AI/ML
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![YOLO](https://img.shields.io/badge/-YOLO-FF007F?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Satellite & ROV Image Analysis](https://img.shields.io/badge/-Satellite%20&%20Drone%20Vision-6A5ACD?style=for-the-badge)
+
+### 🧩 Deployment & UI
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer)
+
 <br />
 
 ---
@@ -63,8 +88,7 @@ I'm always up for collabs, tech talks, and fun ideas that challenge the norm. If
 [<img align="left" alt="zaheed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="zaheed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
 
-[website]: https://your-website-link.com  
-[medium]: https://medium.com/@your-username  
+[website]: https://zaheed.tech   
 [twitter]: https://twitter.com/your-username  
 [linkedin]: https://www.linkedin.com/in/your-username  
 [instagram]: https://www.instagram.com/your-username
