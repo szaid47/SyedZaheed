@@ -18,19 +18,22 @@ When I’m not debugging or deploying, I’m diving into tech trends, participat
 
 ---
 
-### 🧠 What I Love Working With
-- **Frontend Frameworks**:  React, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, shadcn/ui
-- **Backend/Tools**: Node.js, Express.js, MongoDB, SQL, Redis, Clerk, ConvexDB
-- **AI/ML**: OpenCV, YOLO, TensorFlow (dabbling), Satellite & Drone Image Analysis
-- **Deployment & UI Tools**: Streamlit, Power BI, WordPress, Elementor
-
-
 ### 🌱 My Journey So Far
--  Created an AI-driven proctoring app that captures misalignment behavior from recorded videos.
--  Developed an AI-powered system to identify and classify underwater debris using advanced computer vision techniques.
--  Developed ShopEase, a comprehensive e-commerce application utilizing the MERN stack (MongoDB, Express.js, React, Node.js) with  integrated Stripe payment processing
--  Built Konvo, a full-stack real-time chat application using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io
--  Visualized India’s City GDP using Power BI and Streamlit for  Infosys Springboard.
+
+- **Created an AI-driven proctoring app**:  
+  Developed a sophisticated **AI-powered proctoring application** that captures and analyzes misalignment behavior in recorded videos. This system uses **computer vision** to monitor student focus during online exams and flags suspicious activity, such as eye and head misalignments, to ensure a fair testing environment.
+
+- **Developed an AI-powered system for underwater debris detection**:  
+  Built a real-time **AI system** that identifies and classifies **underwater debris** using advanced **computer vision techniques** like **YOLOv8**. This project aimed to tackle environmental challenges by detecting and tracking marine litter, ultimately contributing to sustainable ocean cleanup efforts. The system works in low-visibility underwater conditions, supporting conservation and waste management initiatives.
+
+- **Developed ShopEase**:  
+  Created **ShopEase**, a **comprehensive e-commerce application** leveraging the **MERN stack** (MongoDB, Express.js, React, Node.js) along with **Stripe** for secure payment processing. The app features **user authentication**, **product browsing**, **shopping cart functionality**, and **secure checkout**, with a **dynamic discount system** for promotional offers. It also includes an **admin dashboard** for managing products, orders, and customer data, providing a seamless shopping experience.
+
+- **Built Konvo – Real-Time Chat Application**:  
+  Developed **Konvo**, a **real-time chat application** using the **MERN stack** and **Socket.io**. The platform supports real-time messaging, typing indicators, and notifications, ensuring users can communicate instantly. The system includes features like **group chats**, **JWT-based authentication** for secure logins, and a **responsive UI** for a smooth experience across devices, offering a simple yet powerful chat solution.
+
+- **Visualized India’s City GDP**:  
+  Visualized **India’s City GDP** using **Power BI** and **Streamlit** during my internship at **Infosys Springboard**. I created interactive dashboards that presented city-wise economic data in a user-friendly manner, providing insights for stakeholders to understand regional economic trends. This project helped refine my skills in data analysis, visualization, and real-time web application development.
 
 ---
 
