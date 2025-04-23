@@ -18,13 +18,12 @@ When I’m not debugging or deploying, I’m diving into tech trends, participat
 
 ---
 
-### 🧠 What I Love Working With
-- **Frontend Frameworks**: React, HTML, CSS, JavaScript, Tailwind
-- **Backend/Tools**: Node.js, Express, SQL, Firebase
-- **AI/ML**: OpenCV, YOLO, TensorFlow (dabbling), Satellite & Drone Image Analysis
-- **Deployment & UI Tools**: Streamlit, Power BI, WordPress, Elementor
+### What I Love Working With
+Frontend Frameworks: React, Next.js, HTML, CSS, JavaScript, TypeScript, Tailwind CSS, shadcn/ui
+Backend/Tools: Node.js, Express.js, MongoDB, SQL, Redis, Clerk, ConvexDB
+AI/ML: OpenCV, YOLO, TensorFlow (dabbling), Satellite & Drone Image Analysis
+Deployment & UI Tools: Streamlit, Power BI, WordPress, Elementor
 
----
 
 ### 🌱 My Journey So Far
 -  Created an AI-driven proctoring app that captures misalignment behavior from recorded videos.
