@@ -29,6 +29,7 @@ When I’m not debugging or deploying, I’m diving into tech trends, participat
 ### 🌱 My Journey So Far
 -  Created an AI-driven proctoring app that captures misalignment behavior from recorded videos.
 -  Developed an AI-powered system to identify and classify underwater debris using advanced computer vision techniques.
+-  -  Developed ShopEase, a comprehensive e-commerce application utilizing the MERN stack (MongoDB, Express.js, React, Node.js) with  integrated Stripe payment processing
 -  Built Konvo, a full-stack real-time chat application using the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.io
 -  Visualized India’s City GDP using Power BI and Streamlit for  Infosys Springboard.
 
