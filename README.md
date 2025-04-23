@@ -9,10 +9,10 @@ When I’m not debugging or deploying, I’m diving into tech trends, participat
 [🌐 Visit my portfolio](https://zaheed.tech)
 
 <p align="center">
-  <a href="https://github.com/SyedZaheed?tab=followers">
+  <a href="https://github.com/szaid47?tab=followers">
     <img src="https://custom-icon-badges.demolab.com/github/followers/SyedZaheed?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
   </a>
-  <a href="https://github.com/SyedZaheed?tab=repositories&sort=stargazers">
+  <a href="https://github.com/szaid47?tab=repositories&sort=stargazers">
     <img src="https://custom-icon-badges.demolab.com/github/stars/SyedZaheed?color=55960c&style=for-the-badge&labelColor=488207&logo=star" />
   </a>
 </p>
