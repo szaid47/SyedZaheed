@@ -6,6 +6,8 @@ Hey there! I’m a Computer Science Engineering student with a passion for turni
 
 When I’m not debugging or deploying, I’m diving into tech trends, participating in hackathons, and working on meaningful projects like AI-driven cheating surveillance systems, YOLO-powered trainer comparison apps, and sustainable agriculture tools.
 
+[🌐 Visit my portfolio](https://zaheed.tech)
+
 <p align="center">
   <a href="https://github.com/SyedZaheed?tab=followers">
     <img src="https://custom-icon-badges.demolab.com/github/followers/SyedZaheed?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" />
@@ -43,6 +45,7 @@ When I’m not debugging or deploying, I’m diving into tech trends, participat
 <img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Streamlit" width="30px" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js Logo" width="100" height="100" />
 <br />
 
 ---
