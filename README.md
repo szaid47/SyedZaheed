@@ -68,6 +68,7 @@ I'm always up for collabs, tech talks, and fun ideas that challenge the norm. If
     <img src="https://abs.twimg.com/favicons/favicon.ico" alt="Twitter" width="30" height="30" />
 </a>
 <a href="https://www.instagram.com/your-username" target="_blank" title="Instagram">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Instagram_logo_2016.svg" alt="Instagram" width="30" height="30" />
-</a>
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="Instagram" width="30" height="30" />
+
+  </a>>
 </p>
