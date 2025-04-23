@@ -58,19 +58,16 @@ When I’m not debugging or deploying, I’m diving into tech trends, participat
 
 I'm always up for collabs, tech talks, and fun ideas that challenge the norm. If you're building something innovative or just wanna geek out on code—hit me up!
 <p>
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" title="LinkedIn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/LinkedIn_logo_2023.png" alt="LinkedIn" width="30" height="30" />
-  </a>
-  <a href="https://github.com/your-username" target="_blank" title="GitHub">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/GitHub_Logo_2022.png" alt="GitHub" width="30" height="30" />
-  </a>
-  <a href="https://twitter.com/your-username" target="_blank" title="Twitter">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg" alt="Twitter" width="30" height="30" />
-  </a>
-  <a href="https://www.instagram.com/your-username" target="_blank" title="Instagram">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" alt="Instagram" width="30" height="30" />
-  </a>
-  <a href="https://www.facebook.com/your-profile" target="_blank" title="Facebook">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30" height="30" />
-  </a>
+ <a href="https://www.linkedin.com/in/your-profile" target="_blank" title="LinkedIn">
+    <img src="https://content.linkedin.com/content/dam/platform/lil-logo/default/original-dark.svg" alt="LinkedIn" width="30" height="30" />
+</a>
+<a href="https://github.com/your-username" target="_blank" title="GitHub">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark-Light-64px.png" alt="GitHub" width="30" height="30" style="background-color: #f6f8fa;" />
+</a>
+<a href="https://twitter.com/your-username" target="_blank" title="Twitter">
+    <img src="https://abs.twimg.com/favicons/favicon.ico" alt="Twitter" width="30" height="30" />
+</a>
+<a href="https://www.instagram.com/your-username" target="_blank" title="Instagram">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Instagram_logo_2016.svg" alt="Instagram" width="30" height="30" />
+</a>
 </p>
