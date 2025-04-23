@@ -1,4 +1,4 @@
-# 🚀 Syed Zaheed
+# Syed Zaheed
 
 **`Tech Explorer | Web Dev Whiz | AI Enthusiast`**
 
